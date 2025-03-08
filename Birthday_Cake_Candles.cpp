@@ -6,6 +6,7 @@ string ltrim(const string &);
 string rtrim(const string &);
 vector<string> split(const string &);
 
+
 /*
  * Complete the 'birthdayCakeCandles' function below.
  *
